@@ -9,6 +9,7 @@ The organization matrix of manager the different heads would look like this.
 
 <img width="1198" height="689" alt="image" src="https://github.com/user-attachments/assets/9a1eb3eb-bb4c-4432-957f-59d6c4a25b76" />
 
+
 The outputs after the VBA Excel Application run would look like this.
 
 ### Interim Output
