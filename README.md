@@ -14,6 +14,6 @@ The outputs after the VBA Excel Application run would look like this.
 ### Interim Output
 <img width="1787" height="745" alt="image" src="https://github.com/user-attachments/assets/dd7e9d76-beda-4868-8d16-babf2a3d4e37" />
 
-### Output
+### Final Output
 <img width="1296" height="789" alt="image" src="https://github.com/user-attachments/assets/a9065f15-79d6-402b-adc3-b18075df014d" />
 
